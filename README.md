@@ -12,7 +12,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaotian-lyu&theme=highcontrast" alt="xiaotian-lyu" /></p>
+<p align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaotian-lyu&theme=highcontrast" alt="xiaotian-lyu" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
