@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Xiaotian(Tiana)
 <p align="center">
   <img src="https://github.com/Xiaotian-Lyu/Pictures/blob/main/Simple%20UI%20Newbie%20Instagram%20Post.gif"/>
+  <img src="https://github.com/Xiaotian-Lyu/Pictures/blob/main/039d2254b392f492ecda534bd7a848f3.gif"/>
 </p>
 
 
