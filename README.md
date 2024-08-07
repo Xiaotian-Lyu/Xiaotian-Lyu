@@ -45,17 +45,22 @@
 
 ### Languages
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,javascript,typescript,html,css,shell,sql"/>
+   <img src="https://skillicons.dev/icons?i=java,python,pycharm,javascript,typescript,html,css,shell,sql"/>
 </p>
 
-### Cloud/Databases
+### Tools & Services
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=googlecloud,aws,kubernetes,docker,grafana,jenkins,kafka,firebase,mongo,redis"/>
+   <img src="https://skillicons.dev/icons?i=idea,github,mysql,postman,linux,maven,googlecloud,aws,docker,mongo,redis"/>
 </p>
 
-### Tools/Frameworks/Libraries
+### Frameworks/Libraries
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=spring,androidstudio,git,react,nextjs,nodejs,express"/>
+   <img src="https://skillicons.dev/icons?i=spring,git,react,django,rabbitmq,nextjs,nodejs,express,vue"/>
+</p>
+
+### UI/UX Design
+<p align="left">
+   <img src="https://skillicons.dev/icons?i=xd,ai"/>
 </p>
 
 <br>
@@ -65,8 +70,10 @@
 
 
 
-<!--
 
+
+
+<!--
 <p align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaotian-lyu&theme=highcontrast" alt="xiaotian-lyu" /></p>
 
 
