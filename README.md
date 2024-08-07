@@ -1,16 +1,70 @@
-<h1 align="center">Hi 👋, I'm Xiaotian(Tiana)</h1>
-<h4 align="center">🌱 I’m a Student at Northeastern University studying in Master of Science in Computer Software Engineering.</h4>
-
-
-
-
-
-<h3 align="center">Connect with me:</h3>
+### Hi 👋, I'm Xiaotian(Tiana)
 <p align="center">
-<a href="https://www.linkedin.com/in/xiaotian-lyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xiaotian (tiana) lyu" height="30" width="40" /></a>
+  <img src="https://github.com/Xiaotian-Lyu/Pictures/blob/main/Simple%20UI%20Newbie%20Instagram%20Post.gif"/>
 </p>
 
 
+### About Me 🚀
+🌱 I’m a Student at Northeastern University studying in Master of Science in Computer Software Engineering. </br>
+👨‍💻  I am passionate about Generative AI and Software Engineering. </br>
+
+### My Experiences 🙌
+- [CTI Accelerate Program 24 Cohort]  - (May 2024 - Present)
+- [Member at Rewriting the Code] - (Feb 2024 - Present)
+
+### My Licenses & certifications 🔭
+- AWS Educate Introduction to Generative AI
+- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+
+### Reach me 📫    
+- **lyu.xiao@northeastern.edu**
+<!--
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub History!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chensiyingcrystal&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chensiyingcrystal&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chensiyingcrystal&theme=onedark"/>
+  <img src="https://stats.quine.sh/thatsmeadarsh/github?theme=dark" />
+  <img src="https://stats.quine.sh/thatsmeadarsh/topics-over-time?theme=dark" />
+</p>
+-->
+
+## 🔗 Let's Connect
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/xiaotian-lyu" target="_blank">
+    <img height="50" src="https://image.similarpng.com/very-thumbnail/2020/04/LinkedIn-logo-icon-social-media-hand-drawn-png.png"/>
+  </a>
+
+</p>
+
+
+## <img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30px" height="30px"> Technologies
+
+### Languages
+<p align="left">
+   <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,javascript,typescript,html,css,shell,sql"/>
+</p>
+
+### Cloud/Databases
+<p align="left">
+   <img src="https://skillicons.dev/icons?i=googlecloud,aws,kubernetes,docker,grafana,jenkins,kafka,firebase,mongo,redis"/>
+</p>
+
+### Tools/Frameworks/Libraries
+<p align="left">
+   <img src="https://skillicons.dev/icons?i=spring,androidstudio,git,react,nextjs,nodejs,express"/>
+</p>
+
+<br>
+
+
+
+
+
+
+<!--
 
 <p align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaotian-lyu&theme=highcontrast" alt="xiaotian-lyu" /></p>
 
@@ -22,7 +76,7 @@
 
 - 📫 How to reach me **lyu.xiao@northeastern.edu**
 
-<!--
+
 **Xiaotian-Lyu/Xiaotian-Lyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
