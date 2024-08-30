@@ -6,7 +6,9 @@
 
 
 ### About Me 🚀
-🌱 I’m a Student at Northeastern University studying in Master of Science in Computer Software Engineering. </br>
+
+🌱 I’m a Student at Georgia Institute of Technology studying in Computer Science - Specialization in Interactive Intelligence. </br>
+🌱 And at Northeastern University studying in Master of Science in Computer Software Engineering. </br>
 👨‍💻  I am passionate about Generative AI and Software Engineering. </br>
 
 ### My Experiences 🙌
