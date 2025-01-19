@@ -1,4 +1,4 @@
-### Hi 👋, I'm Xiaotian(Tiana)
+### Hi 👋, I'm Xiaotian(Melody)
 <p align="center">
   <img src="https://github.com/Xiaotian-Lyu/Pictures/blob/main/Simple%20UI%20Newbie%20Instagram%20Post.gif"/>
   <img src="https://github.com/Xiaotian-Lyu/Pictures/blob/main/039d2254b392f492ecda534bd7a848f3.gif"/>
@@ -12,6 +12,7 @@
 👨‍💻  I am passionate about Generative AI and Software Engineering. </br>
 
 ### My Experiences 🙌
+- [Software Engineer Intern] Eclipse JDT Core - (Oct 2024 - Nov 2024)
 - [CTI Accelerate Program 24 Cohort]  - (May 2024 - Present)
 - [Member at Rewriting the Code] - (Feb 2024 - Present)
 
